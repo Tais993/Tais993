@@ -5,4 +5,3 @@
 - I’m looking to collaborate on nothing really.
 - I’m looking for help with getting better at OOP and the solid principle!
 - How to reach me: DM me on Discord Tijs#0001
-- Pronouns: He/him
