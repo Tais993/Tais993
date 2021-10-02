@@ -103,9 +103,6 @@ _Click the icon to see my profile_
     <a href="https://github.com/Tais993/OsuApiV1Wrapper">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=OsuApiV1Wrapper"  alt="OsuApiV1Wrapper on GitHub"/>
   </a>
-  <a href="https://github.com/Tais993/VeelPlezier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=VeelPlezier"  alt="VeelPlezier on GitHub"/>
-  </a>
 </div>
 
 -----
