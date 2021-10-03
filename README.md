@@ -83,14 +83,13 @@ _Click the icon to see my profile_
 
 <span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=tais993&theme=github_dark&show_icons=true" alt="Stats Tais993 on Github" /></span>
 <span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tais993&theme=github_dark&langs_count=10" alt="Most used languages Tais993 on Github" /></span>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tais993&theme=dark" alt="tais993" /></p>
-
 </div>
 
 ### Including private contributions
 
 <div>
-
+    
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tais993&theme=dark" alt="tais993" /></p>
 <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=tais993&theme=github_dark&show_icons=true&count_private=true" /></span>
 </div>
 
