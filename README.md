@@ -48,7 +48,7 @@ _Click the icon to see my profile_
 #### Programming languages
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](http://img.shields.io/badge/-C%23-007396?style=flat-square&logo=csharp&logoColor=white)
+![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
 #### Other languages
