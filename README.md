@@ -56,6 +56,10 @@ _Click the icon to see my profile_
 ![Html](http://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+### Frameworks
+
+![C#](http://img.shields.io/badge/-WPF-239120?style=flat-square&logo=csharp&logoColor=white)
+
 ### Databases
 
 ![MongoDb](http://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -98,9 +102,9 @@ _Click the icon to see my profile_
 ### Including private contributions
 
 <div>
-    
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tais993&theme=dark" alt="tais993" /></p>
-<span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=tais993&theme=github_dark&show_icons=true&count_private=true" /></span>
+<span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=tais993&theme=github_dark&show_icons=true&count_private=true"  alt="Github Stats including all private contrbutions"/></span>
 </div>
 
 ## Projects I contribute to
