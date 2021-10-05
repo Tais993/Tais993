@@ -118,7 +118,17 @@ _Click the icon to see my profile_
   </a>
 </div>
 
------
+## Goals
 
+### 2021
+
+- Remaking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started, current source
+  on [Space](https://www.jetbrains.com/space/))_
+
+### 2022
+
+- Get a programming relating job
+- Oracle Java 17 certifications
+- _Php Laravel certification?_
 
 Copyright © 2000-2021 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains s.r.o.
