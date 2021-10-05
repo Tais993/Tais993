@@ -53,7 +53,11 @@ _Click the icon to see my profile_
 ### Databases
 
 ![MongoDb](http://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Build tools
+
 ![Gradle](http://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Maven](http://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ### IDEs and text editors
 
