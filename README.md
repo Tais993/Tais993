@@ -131,4 +131,6 @@ _Click the icon to see my profile_
 - Oracle Java 17 certifications
 - _Php Laravel certification?_
 
+-----
+
 Copyright © 2000-2021 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains s.r.o.
