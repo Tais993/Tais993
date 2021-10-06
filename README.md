@@ -84,13 +84,14 @@ _Click the icon to see my profile_
 
 ## Want to learn
 
-![Maven](http://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Springboot](http://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Laravel](http://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Redis](http://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GitLab](http://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Maven](http://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ## Stats
 
