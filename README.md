@@ -106,7 +106,7 @@ _Click the icon to see my profile_
 <div>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tais993&theme=dark" alt="tais993" /></p>
-<span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=tais993&theme=github_dark&show_icons=true&count_private=true"  alt="Github Stats including all private contrbutions"/></span>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=tais993&theme=github_dark&show_icons=true&count_private=true"  alt="GitHub Stats including all private contributions"/></span>
 </div>
 
 ## Projects I contribute to
@@ -138,24 +138,26 @@ _Click the icon to see my profile_
 - Oracle Java 17 certifications
 - _Php Laravel certification?_
 - Create a new Discord bot using [JDA](https://github.com/DV8FromTheWorld/JDA)
-- Create an in-depth article about
+- Write an in-depth article about
   Java's [switch-statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-  and [switch expressions](https://openjdk.java.net/jeps/361) <br />
-  Focusing on how they compile, performance differences, and more
+  and [switch expressions](https://openjdk.java.net/jeps/361) \
+  Focusing on how they compile, performance differences, and more.
 - Get a programming relating job
 - Get a LinkedIn certification for Java and Git
 
 ## My road
 
-It all started somewhere, I didn't magically get the level I'm right now on.
+It all started somewhere, I didn't magically get to this level. \
+So well, you can read the road I took to get here.
+
+<br />
 
 #### Project 1; Search things
 
-This project generates a link for the requested search engine, based on what you searched. <br /> <br />
-It's small, but back then I was proud of it. <br />
-Right now I would've done it differently. <br />
-Back then a switch expression didn't exist, but I'd make usage of a switch expression instead and remove all those if's
-with a fori. <br />
+This project generates a link for the requested search engine, based on what you searched.
+
+A small project, but a big footprint for me. \
+Back then switch expressions didn't exist unfortunately, they are a lot more readable.
 <div>
     <a href="https://github.com/Tais993/SearchThings/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=SearchThings"  
@@ -163,14 +165,16 @@ with a fori. <br />
   </a>
 </div>
 
-#### Project 2; (object oriented) Coffee Machine
+<br />
+
+#### Project 2; (object-oriented) Coffee Machine
 
 My first OOP project, it helped me a lot. This project comes
-from [Jetbrain's academy](https://www.jetbrains.com/academy/). <br />
-The exact project can be found [here](https://hyperskill.org/projects/33?track=17). <br />
+from [JetBrains academy](https://www.jetbrains.com/academy/). \
+You can find the exact project [here](https://hyperskill.org/projects/33?track=17).
 
-By making usage of a class named “Coffee", other classes could extend this and set the variables. <br />
-I would've done it differently right now, but still it's OOP, and I can be proud of this.
+By making usage of a class named “Coffee", other classes could extend this and set the variables. \
+An (first) OOP project to be proud of, in my opinion.
 
 <div>
     <a href="https://github.com/Tais993/CoffeeMachine/">
@@ -179,21 +183,22 @@ I would've done it differently right now, but still it's OOP, and I can be proud
   </a>
 </div>
 
+<br />
+
 #### Project 3; Minecraft mod: "Torchcraftexcel mod".
 
-A friend came to me, he plays a Minecraft prison server. <br />
-He wants to know how much money his inventory would make him when he'd sell everything. <br />
+A friend came to me, he plays a Minecraft prison server. \
+He wants to know how much money his inventory would make him when he'd sell everything.
 
-Or well, that was his original request <br />
+Or well, that was the original request. \
 In the end, I added more;
 
-- calculating chests
+- possibility to include chests (opening the same chest multiple times still only adds it once)
 - loading items their worth from a csv file
 - export current inventory into csv file
 - some more settings
 
-While the code probably isn't that good, regardless. <br />
-My first "big" project, something I'm still proud of to this day. <br />
+My first "big" project, something I'm still proud of to this day.
 
 I'd love to remake it, a fun project.
 
@@ -204,10 +209,12 @@ I'd love to remake it, a fun project.
   </a>
 </div>
 
+<br />
+
 #### Project 4; Discord bot: "TaisDiscordBot"
 
-In all honesty, I wouldn't call the code good in all fairness. One of the many bigger projects to come, this required
-actual designing. Creating a command handler, and more.
+One of the many bigger projects to come, this required actual designing. \
+Creating a command handler, and more.
 
 I ended up with a decently big bot, music commands, and a lot more.
 
@@ -220,19 +227,21 @@ One of the items on my to-do list for 2022, discord bot! I'd love to make one ag
   </a>
 </div>
 
+<br />
+
 #### Project 5; OsuApiWrapper
 
 **Note, this project is getting revamped**
 
-Well, I created a wrapper around the osu-api <br />
-My original intention was to create 1 library for both osu's v1 and v2 API <br />
-I changed plans, this project will only become v1 and v2 will become a second project. <br />
+Well, I created a wrapper around the osu-api. \
+My original intention was to create 1 library for both osu's v1 and v2 API. \
+I changed plans, this project will only become v1 and v2 will become a second project.
 
-v2 makes usage of oath, causing me to stop 8 months ago, couldn't get it working.
+Version 2 of the osu api makes usage of oath, causing me to stop 8 months ago, couldn't get it working.
 
 After the rework I'll make usage of [Reactor's reactive streams](https://www.reactive-streams.org/)
-and [records](https://www.baeldung.com/java-record-keyword) for storing data. <br />
-Yes the project will become Java 17, I love new Java versions :p
+and [records](https://www.baeldung.com/java-record-keyword). \
+Yes the project will become Java 17, I love new technologies. :p
 
 
 <div>
