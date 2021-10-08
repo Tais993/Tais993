@@ -5,7 +5,7 @@
 
 <details>
 <summary>
-  <h2 style="display: inline;">Social media links!</h2>
+  <b>Social media links!</b>
 </summary>
 
 _Click the icon to see my profile_
@@ -51,7 +51,7 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <h2 style="display: inline;">Currently knowledged on</h2>
+  <b>Currently knowledged on</b>
 </summary>
 
 ### Languages
@@ -95,7 +95,7 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <h2 style="display: inline;">Currently learning</h2>
+  <b>Currently learning</b>
 </summary>
 
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -108,7 +108,7 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <h2 style="display: inline;">Want to learn</h2>
+  <b>Want to learn</b>
 </summary>
 
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -127,7 +127,7 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <h2 style="display: inline;">Stats</h2>
+  <b>Stats</b>
 </summary>
 
 <div>
@@ -151,7 +151,7 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <h2 style="display: inline;">Projects I contribute to</h2>
+  <b>Projects I contribute to</b>
 </summary>
 
 <div>
@@ -171,7 +171,7 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <h2 style="display: inline;">Goals</h2>
+  <b>Goals</b>
 </summary>
 
 ### 2021
@@ -202,7 +202,7 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <h2 style="display: inline;">My road</h2>
+  <b>My road</b>
 </summary>
 
 Any folded content here. It requires an empty line just above it.
