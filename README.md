@@ -46,8 +46,7 @@ _Click the icon to see my profile_
 
 </details>
 
-<br />
-<br />
+---
 
 <details>
 <summary>
@@ -90,8 +89,7 @@ _Click the icon to see my profile_
 
 </details>
 
-<br />
-<br />
+---
 
 <details>
 <summary>
@@ -103,8 +101,7 @@ _Click the icon to see my profile_
 
 </details>
 
-<br />
-<br />
+---
 
 <details>
 <summary>
@@ -122,8 +119,7 @@ _Click the icon to see my profile_
 
 </details>
 
-<br />
-<br />
+---
 
 <details>
 <summary>
@@ -146,8 +142,7 @@ _Click the icon to see my profile_
 
 </details>
 
-<br />
-<br />
+---
 
 <details>
 <summary>
@@ -166,8 +161,7 @@ _Click the icon to see my profile_
 </div>
 </details>
 
-<br />
-<br />
+---
 
 <details>
 <summary>
@@ -197,8 +191,7 @@ _Click the icon to see my profile_
 
 </details>
 
-<br />
-<br />
+---
 
 <details>
 <summary>
