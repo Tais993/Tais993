@@ -113,10 +113,12 @@ _Click the icon to see my profile_
 
 <div>
     <a href="https://github.com/Together-Java/TJ-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Together-Java&theme=github_dark&repo=TJ-Bot"  alt="TJ-Bot on GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Together-Java&theme=github_dark&repo=TJ-Bot"  
+        alt="TJ-Bot on GitHub"/>
   </a>
     <a href="https://github.com/Tais993/OsuApiV1Wrapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=OsuApiV1Wrapper"  alt="OsuApiV1Wrapper on GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=OsuApiV1Wrapper"  
+        alt="OsuApiV1Wrapper on GitHub"/>
   </a>
 </div>
 
@@ -124,14 +126,111 @@ _Click the icon to see my profile_
 
 ### 2021
 
-- Remaking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started, current source
-  on [Space](https://www.jetbrains.com/space/))_
+- Reworking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started on this, current source
+  on [Space](https://www.jetbrains.com/space/))_.
 
 ### 2022
 
 - Get a programming relating job
 - Oracle Java 17 certifications
 - _Php Laravel certification?_
+
+## My road
+
+It all started somewhere, I didn't magically get the level I'm right now on.
+
+#### Project 1; Search things
+
+This project generates a link for the requested search engine, based on what you searched. <br /> <br />
+It's small, but back then I was proud of it. <br />
+Right now I would've done it differently. <br />
+Back then a switch expression didn't exist, but I'd make usage of a switch expression instead and remove all those if's
+with a fori. <br />
+<div>
+    <a href="https://github.com/Tais993/SearchThings/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=SearchThings"  
+        alt="First project; info about search things"/>
+  </a>
+</div>
+
+#### Project 2; (object oriented) Coffee Machine
+
+My first OOP project, it helped me a lot. This project comes
+from [Jetbrain's academy](https://www.jetbrains.com/academy/). <br />
+The exact project can be found [here](https://hyperskill.org/projects/33?track=17). <br />
+
+By making usage of a class named “Coffee", other classes could extend this and set the variables. <br />
+I would've done it differently right now, but still it's OOP, and I can be proud of this.
+
+<div>
+    <a href="https://github.com/Tais993/CoffeeMachine/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=CoffeeMachine"  
+        alt="Second project; info about coffee machine"/>
+  </a>
+</div>
+
+#### Project 3; Minecraft mod: "Torchcraftexcel mod".
+
+A friend came to me, he plays a Minecraft prison server. <br />
+He wants to know how much money his inventory would make him when he'd sell everything. <br />
+
+Or well, that was his original request <br />
+In the end, I added more;
+
+- calculating chests
+- loading items their worth from a csv file
+- export current inventory into csv file
+- some more settings
+
+While the code probably isn't that good, regardless. <br />
+My first "big" project, something I'm still proud of to this day. <br />
+
+I'd love to remake it, a fun project.
+
+<div>
+    <a href="https://github.com/Tais993/TorchCraftExcelMod/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=TorchCraftExcelMod"
+      alt="Third project; info about torchcraftexcelmod"/>
+  </a>
+</div>
+
+#### Project 4; Discord bot: "TaisDiscordBot"
+
+In all honesty, I wouldn't call the code good in all fairness. One of the many bigger projects to come, this required
+actual designing. Creating a command handler, and more.
+
+I ended up with a decently big bot, music commands, and a lot more.
+
+One of the items on my to-do list for 2022, discord bot! I'd love to make one again.
+
+<div>
+    <a href="https://github.com/Tais993/taisdiscordbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=taisdiscordbot"  
+        alt="Fourth project; info about taisdiscordbot"/>
+  </a>
+</div>
+
+#### Project 5; OsuApiWrapper
+
+**Note, this project is getting revamped**
+
+Well, I created a wrapper around the osu-api <br />
+My original intention was to create 1 library for both osu's v1 and v2 API <br />
+I changed plans, this project will only become v1 and v2 will become a second project. <br />
+
+v2 makes usage of oath, causing me to stop 8 months ago, couldn't get it working.
+
+After the rework I'll make usage of [Reactor's reactive streams](https://www.reactive-streams.org/)
+and [records](https://www.baeldung.com/java-record-keyword) for storing data. <br />
+Yes the project will become Java 17, I love new Java versions :p
+
+
+<div>
+    <a href="https://github.com/Tais993/OsuApiV1Wrapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=OsuApiV1Wrapper"  
+        alt="Fourth project; info about taisdiscordbot"/>
+  </a>
+</div>
 
 -----
 
