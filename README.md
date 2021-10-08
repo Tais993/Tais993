@@ -3,7 +3,10 @@
 ![followers](https://img.shields.io/github/followers/Tais993?style=social)
 ![stars](https://img.shields.io/github/stars/Tais993?style=social)
 
-## Social media links!
+<details>
+<summary>
+  <h2 style="display: inline;">Social media links!</h2>
+</summary>
 
 _Click the icon to see my profile_
 
@@ -41,7 +44,15 @@ _Click the icon to see my profile_
     <img src="https://img.shields.io/badge/-Tijs%230002-5865F2?style=flat-square&logo=Discord&logoColor=white"  alt="Discord logo and username (Tais993)"/>
 </a>
 
-## Currently knowledged on
+</details>
+
+<br />
+<br />
+
+<details>
+<summary>
+  <h2 style="display: inline;">Currently knowledged on</h2>
+</summary>
 
 ### Languages
 
@@ -77,12 +88,28 @@ _Click the icon to see my profile_
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## Currently learning
+</details>
+
+<br />
+<br />
+
+<details>
+<summary>
+  <h2 style="display: inline;">Currently learning</h2>
+</summary>
 
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Php](http://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## Want to learn
+</details>
+
+<br />
+<br />
+
+<details>
+<summary>
+  <h2 style="display: inline;">Want to learn</h2>
+</summary>
 
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -93,7 +120,15 @@ _Click the icon to see my profile_
 ![GitLab](http://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![Maven](http://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-## Stats
+</details>
+
+<br />
+<br />
+
+<details>
+<summary>
+  <h2 style="display: inline;">Stats</h2>
+</summary>
 
 <div>
 
@@ -109,7 +144,15 @@ _Click the icon to see my profile_
 <span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=tais993&theme=github_dark&show_icons=true&count_private=true"  alt="GitHub Stats including all private contributions"/></span>
 </div>
 
-## Projects I contribute to
+</details>
+
+<br />
+<br />
+
+<details>
+<summary>
+  <h2 style="display: inline;">Projects I contribute to</h2>
+</summary>
 
 <div>
     <a href="https://github.com/Together-Java/TJ-Bot">
@@ -121,8 +164,15 @@ _Click the icon to see my profile_
         alt="OsuApiV1Wrapper on GitHub"/>
   </a>
 </div>
+</details>
 
-## Goals
+<br />
+<br />
+
+<details>
+<summary>
+  <h2 style="display: inline;">Goals</h2>
+</summary>
 
 ### 2021
 
@@ -145,7 +195,17 @@ _Click the icon to see my profile_
 - Get a programming relating job
 - Get a LinkedIn certification for Java and Git
 
-## My road
+</details>
+
+<br />
+<br />
+
+<details>
+<summary>
+  <h2 style="display: inline;">My road</h2>
+</summary>
+
+Any folded content here. It requires an empty line just above it.
 
 It all started somewhere, I didn't magically get to this level. \
 So well, you can read the road I took to get here.
@@ -250,6 +310,7 @@ Yes the project will become Java 17, I love new technologies. :p
         alt="Fourth project; info about taisdiscordbot"/>
   </a>
 </div>
+</details>
 
 -----
 
