@@ -176,16 +176,16 @@ _Click the icon to see my profile_
 - Contribute to [JDA](https://github.com/DV8FromTheWorld/JDA)
 - Finish my [VeelPlezier website](https://github.com/Tais993/VeelPlezierWebsite)
   and [app](https://github.com/Tais993/VeelPlezier) (school project)
+  - Write an in-depth article about
+  Java's [switch-statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
+  and [switch expressions](https://openjdk.java.net/jeps/361) (and comparing them to if-elses's)\
+  Focusing on how they compile, performance differences, and more.
 
 ### 2022
 
 - Oracle Java 17 certifications
 - _Php Laravel certification?_
 - Create a new Discord bot using [JDA](https://github.com/DV8FromTheWorld/JDA)
-- Write an in-depth article about
-  Java's [switch-statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-  and [switch expressions](https://openjdk.java.net/jeps/361) \
-  Focusing on how they compile, performance differences, and more.
 - Get a programming relating job
 - Get a LinkedIn certification for Java and Git
 
