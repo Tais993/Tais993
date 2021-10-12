@@ -198,10 +198,8 @@ _Click the icon to see my profile_
   <b>My road</b>
 </summary>
 
-Any folded content here. It requires an empty line just above it.
-
 It all started somewhere, I didn't magically get to this level. \
-So well, you can read the road I took to get here.
+So well, the road I took to get to the level I currently am on:
 
 <br />
 
@@ -210,7 +208,8 @@ So well, you can read the road I took to get here.
 This project generates a link for the requested search engine, based on what you searched.
 
 A small project, but a big footprint for me. \
-Back then switch expressions didn't exist unfortunately, they are a lot more readable.
+Back then switch expressions didn't exist, unfortunately. \
+If they did exist, the switch would've been _a lot more_ readable.
 <div>
     <a href="https://github.com/Tais993/SearchThings/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=SearchThings"  
@@ -227,7 +226,7 @@ from [JetBrains academy](https://www.jetbrains.com/academy/). \
 You can find the exact project [here](https://hyperskill.org/projects/33?track=17).
 
 By making usage of a class named “Coffee", other classes could extend this and set the variables. \
-An (first) OOP project to be proud of, in my opinion.
+An (first) OOP project to be proud of, I would say.
 
 <div>
     <a href="https://github.com/Tais993/CoffeeMachine/">
@@ -251,7 +250,7 @@ In the end, I added more;
 - export current inventory into csv file
 - some more settings
 
-My first "big" project, something I'm still proud of to this day.
+My first "big" project, so yeah that explains the code's quality.
 
 I'd love to remake it, a fun project.
 
