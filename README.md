@@ -180,6 +180,7 @@ _Click the icon to see my profile_
   Java's [switch-statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
   and [switch expressions](https://openjdk.java.net/jeps/361) (and comparing them to if-elses's)\
   Focusing on how they compile, performance differences, and more.
+  - Create a simple HTML validator, which just checks whenever all tags are opened/closed (using a Stack)
 
 ### 2022
 
