@@ -109,6 +109,7 @@ _Click the icon to see my profile_
 </summary>
 
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Springboot](http://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
