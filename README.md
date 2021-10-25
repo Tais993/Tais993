@@ -113,6 +113,7 @@ _Click the icon to see my profile_
 ![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Springboot](http://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![ReactiveX](http://img.shields.io/badge/-Reactive%20X%20Java%20implementation-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Laravel](http://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Redis](http://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GitLab](http://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
