@@ -175,7 +175,7 @@ _Click the icon to see my profile_
 - Reworking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started on this, current source
   on [Space](https://www.jetbrains.com/space/))_.
 - Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
-- ~~Contribute to [JDA](https://github.com/DV8FromTheWorld/JDA).~~
+- ~~Contribute to [JDA](https://github.com/DV8FromTheWorld/JDA)~~
 - Finish my [VeelPlezier website](https://github.com/Tais993/VeelPlezierWebsite)
   and [app](https://github.com/Tais993/VeelPlezier) (school project)
   - Write an in-depth article about
