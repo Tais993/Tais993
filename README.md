@@ -172,25 +172,22 @@ _Click the icon to see my profile_
 
 ### 2021
 
-- Reworking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started on this, current source
-  on [Space](https://www.jetbrains.com/space/))_.
-- Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
+- ~~Reworking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started on this, current source
+  on [a new repository](https://github.com/Tais993/Java-OsuApiV1))_~~
+- ~~Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)~~
 - ~~Contribute to [JDA](https://github.com/DV8FromTheWorld/JDA)~~
-- Finish my [VeelPlezier website](https://github.com/Tais993/VeelPlezierWebsite)
-  and [app](https://github.com/Tais993/VeelPlezier) (school project)
-  - Write an in-depth article about
-  Java's [switch-statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-  and [switch expressions](https://openjdk.java.net/jeps/361) (and comparing them to if-elses's)\
-  Focusing on how they compile, performance differences, and more.
-  - Create a simple HTML validator, which just checks whenever all tags are opened/closed (using a Stack)
+- Finish my [Veel plezier app](https://github.com/Tais993/VeelPlezier) (school project)
+- Create an advanced HTML validator, which also checks all HTML elements, and their tags and such (started on [this](https://github.com/Tais993/HTML-CSS-Validator), but I stopped since I don't learn enough from it)
 
 ### 2022
 
 - Oracle Java 17 certifications
-- _Php Laravel certification?_
+- ~~Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)~~
+- Finish my [osu-api-wrapper](https://github.com/Tais993/Java-OsuApiV1) rework
 - Create a new Discord bot using [JDA](https://github.com/DV8FromTheWorld/JDA)
-- Get a programming relating job
 - Get a LinkedIn certification for Java and Git
+- Write an short article about async programming, see [here](https://tais993.github.io/Async-programming/)
+- Study some algorithms
 
 </details>
 
