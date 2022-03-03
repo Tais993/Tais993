@@ -150,25 +150,6 @@ _Click the icon to see my profile_
 
 <details>
 <summary>
-  <b>Projects I contribute to</b>
-</summary>
-
-<div>
-    <a href="https://github.com/Together-Java/TJ-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Together-Java&theme=github_dark&repo=TJ-Bot"  
-        alt="TJ-Bot on GitHub"/>
-  </a>
-    <a href="https://github.com/Tais993/Java-OsuApiV1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tais993&theme=github_dark&repo=Java-OsuApiV1"  
-        alt="Java-OsuApiV1 on GitHub"/>
-  </a>
-</div>
-</details>
-
----
-
-<details>
-<summary>
   <b>Goals</b>
 </summary>
 
