@@ -155,17 +155,17 @@ _Click the icon to see my profile_
 
 ### 2021
 
-- ~~Reworking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started on this, current source
+- [x] Reworking my [osu-api-wrapper](https://github.com/Tais993/OsuApiV1Wrapper) _(started on this, current source
   on [a new repository](https://github.com/Tais993/Java-OsuApiV1))_~~
-- ~~Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)~~
-- ~~Contribute to [JDA](https://github.com/DV8FromTheWorld/JDA)~~
+- [x] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)~~
+- [x] Contribute to [JDA](https://github.com/DV8FromTheWorld/JDA)~~
 - [x] Finish my [Veel plezier app](https://github.com/Tais993/VeelPlezier) (school project)
-- Create an advanced HTML validator, which also checks all HTML elements, and their tags and such (started on [this](https://github.com/Tais993/HTML-CSS-Validator), but I stopped since I don't learn enough from it)
+- [] Create an advanced HTML validator, which also checks all HTML elements, and their tags and such (started on [this](https://github.com/Tais993/HTML-CSS-Validator), but I stopped since I don't learn enough from it)
 
 ### 2022
 
 - Oracle Java 17 certifications
-- ~~Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)~~
+- [x] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)~~
 - Finish my [osu-api-wrapper](https://github.com/Tais993/Java-OsuApiV1) rework
 - Create a new Discord bot using [JDA](https://github.com/DV8FromTheWorld/JDA)
 - Get a LinkedIn certification for Java and Git
