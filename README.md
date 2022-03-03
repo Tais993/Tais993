@@ -2,6 +2,8 @@
 
 ![followers](https://img.shields.io/github/followers/Tais993?style=social)
 ![stars](https://img.shields.io/github/stars/Tais993?style=social)
+![views](https://komarev.com/ghpvc/?username=Tais993&color=blueviolet)
+
 
 <details>
 <summary>
