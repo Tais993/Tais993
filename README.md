@@ -164,7 +164,6 @@ _Click the icon to see my profile_
 
 ### 2022
 
-- [ ] Oracle Java 17 certifications (will have to question whenever I actually want to do this, it's expensive)
 - [x] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
 - [ ] Finish my [osu-api-wrapper](https://github.com/Tais993/Java-OsuApiV1) rework
 - [ ] Create a new Discord bot using [JDA](https://github.com/DV8FromTheWorld/JDA) <b>this is WIP</b>
@@ -172,6 +171,13 @@ _Click the icon to see my profile_
 - [x] Write an short article about async programming, see [here](https://tais993.github.io/Async-programming/)
 - [ ] Study some algorithms
 
+  
+### Undefined:
+  
+- [ ] Try mixins
+- [ ] OpenGL
+  
+  
 </details>
 
 ---
