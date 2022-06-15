@@ -170,6 +170,7 @@ _Click the icon to see my profile_
 - [ ] Get a LinkedIn certification for Java and Git
 - [x] Write an short article about async programming, see [here](https://tais993.github.io/Async-programming/)
 - [ ] Study some algorithms
+- [ ] Chatclient (websockets)
 
   
 ### Undefined:
